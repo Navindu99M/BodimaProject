@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bodimabackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+477e464d2e2f919c0c4195baa2a7cba766849091")]
 [assembly: System.Reflection.AssemblyProductAttribute("bodimabackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bodimabackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
